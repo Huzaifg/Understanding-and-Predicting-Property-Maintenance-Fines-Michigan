@@ -3,7 +3,12 @@ The Michigan Data Science Team (MDST) and the Michigan Student Symposium for Int
 
 The first step in answering this question is understanding when and why a resident might fail to comply with a blight ticket. This is where predictive modeling comes in.
 All data has been provided to us through the Detroit Open Data Portal.
-Pleas view train.csv and test.csv for the data. 
-Pleas view code comments for description of column names to understand the data.
+Please view train.csv and test.csv for the data. 
+Please view code comments for description of column names to understand the data.
+Please view Understanding-and-Predicting-Property-Maintenance-Fines-Grid-Search to understand model selection
+
+
+
 
 The AUC score I acheived is: 0.752717251245
+
